@@ -1,0 +1,1 @@
+# Built an advanced AI-powered platform utilizing Gemini AI to deliver intelligent search functionality, enabling users to discover movies effortlessly through conversational interactions. The platform is further enhanced by the integration of the TMDB API, providing comprehensive movie data and creating a highly intuitive and engaging user experience.
